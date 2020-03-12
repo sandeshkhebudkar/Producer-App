@@ -3,8 +3,8 @@ package main
 import (
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
-	"github.com/sandeshkhebudkar/Producer-App/producer-app/database"
-	"github.com/sandeshkhebudkar/Producer-App/producer-app/service"
+	"github.com/sandeshkhebudkar/Producer-App/database"
+	"github.com/sandeshkhebudkar/Producer-App/service"
 )
 
 //Book is used to store info of book
