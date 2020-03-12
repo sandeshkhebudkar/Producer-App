@@ -1,0 +1,5 @@
+{
+    "mysql":{
+        "URI":"root:sandy@6968@/book?charset=utf8&parseTime=True&loc=Local"
+    }
+}
